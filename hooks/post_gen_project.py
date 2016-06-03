@@ -31,11 +31,10 @@ separator = "=" * 79
 msg = dedent(
     """
     %(separator)s
-    Tutorials:     http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/
-    Documentation: http://docs.pylonsproject.org/projects/pyramid/en/latest/
+    Documentation: http://substanced.net
     Twitter:       https://twitter.com/trypyramid
-    Mailing List:  https://groups.google.com/forum/#!forum/pylons-discuss
-    Welcome to Pyramid.  Sorry for the convenience.
+    Mailing List:  https://groups.google.com/forum/#!forum/substanced-users
+    Welcome to Substance D.  Sorry for the convenience.
     %(separator)s
 """ % {'separator': separator})
 
