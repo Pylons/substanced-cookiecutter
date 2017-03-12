@@ -32,7 +32,7 @@ msg = dedent(
     """
     %(separator)s
     Documentation: http://substanced.net
-    Twitter:       https://twitter.com/trypyramid
+    Twitter:       https://twitter.com/PylonsProject
     Mailing List:  https://groups.google.com/forum/#!forum/substanced-users
     Welcome to Substance D.  Sorry for the convenience.
     %(separator)s
