@@ -108,3 +108,5 @@ Contributors
 ------------
 
 - Steve Piercy, 2016-06-08
+
+- goodwillcoding, 2017-05-22
